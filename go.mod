@@ -1,4 +1,4 @@
-module github.com/selectel/go-selvpcclient/v2
+module github.com/T-Sh/go-selvpcclient/v2
 
 go 1.14
 
